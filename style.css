@@ -1,0 +1,48 @@
+body {
+    background-color: #212121;
+    color: rgb(164, 163, 163);
+    text-align: center;
+}
+
+.button {
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 14px;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#white {
+    background-color: rgb(217, 214, 214);
+}
+
+#brown {
+    background-color: brown;
+}
+
+#green {
+    background-color: green;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#yellow {
+    background-color: rgb(248, 248, 96);
+}
+
+#pink {
+    background-color: pink;
+}
+
+#black {
+    background-color: black;
+}
+
+#h2-text {
+    margin: 100px;
+}
